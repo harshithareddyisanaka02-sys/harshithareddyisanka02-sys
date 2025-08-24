@@ -7,6 +7,3 @@ With 13+ years of experience in QA & Consulting at Capgemini, I’ve mastered pr
 ✔️ Power BI for creating impactful dashboards & visual storytelling
 ✔️ Strong analytical mindset & attention to detail from years in QA
 ✔️ Agile methodologies & stakeholder collaboration experience
-
-📊 Why Data?
-The thrill of uncovering actionable insights, identifying patterns, and helping businesses make informed decisions truly excites me! I aim to leverage my QA precision & data analytics skills to solve real-world problems, optimize processes, and enhance decision-making.
