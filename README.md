@@ -1,6 +1,12 @@
-# harshithareddyisanka02-sys
-My Personal repository
-I am a Senior Consultant/QA Analyst professional transitioning in to the field of data analytics .witha strong foundation in Excel, SQL, power BI, problem- solving, Analytical thinking ,I have developed a passion for working with data and utilising it to drive informed business decisions.My recent course work and projects in data analytics have equipped me with the tools and knowledge to make this shift.
-besides As a senior Consultant /QA Analyst at Capgemini, I have been driving excellence in software testing and quality assurance for over 13+ years, working with clients from various industries and domains.has strong background in SQL, manual testing, agile methodologies, Playwright tool, JIRA & HPALM
-I am passionate about uncovering actionable insights from data,The ability to transform raw information in to meaningful patterns and strategies excites me.I am particularly interested in leveraging data to solve real-world problems, optimize processes and enhance decision -making within organisations.I am eager to connect with data professionals and explore opportunities where I can apply my analytical skills while continuing to grow in the data analytics space.
-My mission is to deliver high-quality software solutions that meet the expectations and requirements of the end-users and stakeholders. I have successfully led and supported multiple testing projects, applying best practices.
+💡 Passionate about transforming raw data into meaningful insights that drive business decisions.
+With 13+ years of experience in QA & Consulting at Capgemini, I’ve mastered problem-solving, analytical thinking, and quality assurance across diverse industries. My strong foundation in Excel, SQL, and Power BI—combined with recent data analytics coursework & projects—fuels my transition into the exciting world of Data Analytics.
+
+✅ What I Bring to the Table:
+✔️ Advanced Excel skills for data cleaning & analysis
+✔️ SQL expertise for data extraction & transformation
+✔️ Power BI for creating impactful dashboards & visual storytelling
+✔️ Strong analytical mindset & attention to detail from years in QA
+✔️ Agile methodologies & stakeholder collaboration experience
+
+📊 Why Data?
+The thrill of uncovering actionable insights, identifying patterns, and helping businesses make informed decisions truly excites me! I aim to leverage my QA precision & data analytics skills to solve real-world problems, optimize processes, and enhance decision-making.
